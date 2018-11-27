@@ -1,0 +1,10 @@
+C:\Users\pinch\source\repos\Latency\Latency\bin\Debug\Latency.exe.config
+C:\Users\pinch\source\repos\Latency\Latency\bin\Debug\Latency.exe
+C:\Users\pinch\source\repos\Latency\Latency\bin\Debug\Latency.pdb
+C:\Users\pinch\source\repos\Latency\Latency\obj\Debug\Latency.csprojResolveAssemblyReference.cache
+C:\Users\pinch\source\repos\Latency\Latency\obj\Debug\Latency.Properties.Resources.resources
+C:\Users\pinch\source\repos\Latency\Latency\obj\Debug\Latency.csproj.GenerateResource.cache
+C:\Users\pinch\source\repos\Latency\Latency\obj\Debug\Latency.csproj.CoreCompileInputs.cache
+C:\Users\pinch\source\repos\Latency\Latency\obj\Debug\Latency.exe
+C:\Users\pinch\source\repos\Latency\Latency\obj\Debug\Latency.pdb
+C:\Users\pinch\source\repos\Latency\Latency\obj\Debug\Latency.MainWindow.resources

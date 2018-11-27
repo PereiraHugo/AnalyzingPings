@@ -1,0 +1,10 @@
+C:\Users\pinch\source\repos\Latency\Latency\obj\Release\Latency.MainWindow.resources
+C:\Users\pinch\source\repos\Latency\Latency\obj\Release\Latency.csproj.GenerateResource.cache
+C:\Users\pinch\source\repos\Latency\Latency\obj\Release\Latency.csproj.CoreCompileInputs.cache
+C:\Users\pinch\source\repos\Latency\Latency\bin\Release\AnalyzingPings.exe.config
+C:\Users\pinch\source\repos\Latency\Latency\bin\Release\AnalyzingPings.exe
+C:\Users\pinch\source\repos\Latency\Latency\bin\Release\AnalyzingPings.pdb
+C:\Users\pinch\source\repos\Latency\Latency\obj\Release\Latency.csprojResolveAssemblyReference.cache
+C:\Users\pinch\source\repos\Latency\Latency\obj\Release\AnalyzingPings.Properties.Resources.resources
+C:\Users\pinch\source\repos\Latency\Latency\obj\Release\AnalyzingPings.exe
+C:\Users\pinch\source\repos\Latency\Latency\obj\Release\AnalyzingPings.pdb
