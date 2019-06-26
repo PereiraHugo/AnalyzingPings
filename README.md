@@ -7,9 +7,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-This project was developed under Visual Studio 2017. The corresponding c++ may be important.
+This project was developed under Visual Studio 2017. The corresponding c# may be important.
 
-Start a C++ project on Visual Studio 2017 as a form Window.
+Start a C# project on Visual Studio 2017 as a form Window.
 
 ## Code
 
